@@ -1,0 +1,6 @@
+#+TITLE: Project Management
+
+* TODOs
+** TODO re-work project run command function
+** TODO set run command function to have its own popup with separate popup rules
+** TODO add rough project template with barebones notes and .dir-locals

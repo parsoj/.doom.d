@@ -1,0 +1,4 @@
+#+TITLE: Doom Emacs Configuration
+- a perpetual work in progress
+
+* TODO this README :)
